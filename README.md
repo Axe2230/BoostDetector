@@ -27,3 +27,14 @@ https://developer.riotgames.com/
 ## Commiting Changes
 
 ```
+git pull origin main
+
+git checkout -b <branch-name>
+
+git add . (to stage all your changes)
+
+git commit -m "type message here"
+
+git push (pushes the change to main repo)
+
+```
