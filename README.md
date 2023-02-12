@@ -1,6 +1,12 @@
 # BoostDetector
 
-## To Download Locally: 
+## To Download Locally:
+
+#### Download Git First:
+`https://git-scm.com/downloads`
+
+Then 
+
 ```
 git clone https://github.com/Axe2230/BoostDetector.git
 ```
