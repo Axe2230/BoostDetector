@@ -21,4 +21,3 @@ class Matches:
     except:
         print("Something went wrong, please try again")
 
-  def printInfo(self):
