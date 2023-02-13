@@ -30,6 +30,6 @@ class Summoner:
         print("puuid: " + self.puuid)
         print("------------------------------")
 
-
+#TESTING
 viperclutch = Summoner("Viper Clutch")
 viperclutch.printInfo()

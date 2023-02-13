@@ -21,11 +21,3 @@ class Matches:
     except:
         print("Something went wrong, please try again")
 
-  def printInfo(self):
-    if self.status == 200:
-        print("------------------------------")
-        print("Summoner Name: " + self.name)
-        print("id: " + self.id)
-        print("accountID: " + self.accountId)
-        print("puuid: " + self.puuid)
-        print("------------------------------")
