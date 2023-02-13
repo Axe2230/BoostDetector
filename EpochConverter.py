@@ -13,7 +13,7 @@ def convertFromEpoch(epochTime=None):
     return humanTime.__str__()[:10]
 
 
-# epoch = (convertToEpoch('2000-01-01'))
+# epoch = (convertToEpoch('2023-02-13'))
 # print("Epoch Time: ", epoch)
 #
 # print("Human Time: ", convertFromEpoch(epoch))
